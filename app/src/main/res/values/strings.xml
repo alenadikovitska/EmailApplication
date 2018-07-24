@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Activity">Activity</string>
+    <string name="email_text">EMAIL</string>
+    <string name="Activity_text">ACTIVITY</string>
+    <string name="chooser">Send message...</string>
+</resources>
